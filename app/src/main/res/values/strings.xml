@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">NetworkLy</string>
+    <string name="network_details">Network Details</string>
+    <string name="ssid">SSID</string>
+    <string name="ipv4_address">IPv4 Address</string>
+    <string name="ipv6_address">IPv6 Address</string>
+</resources>

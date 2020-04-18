@@ -1,0 +1,2 @@
+rootProject.name='NetworkLy'
+include ':app'
